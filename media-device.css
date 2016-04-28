@@ -40,6 +40,7 @@ html {
     color: #ffffff;
     text-align: center;
     font-size: 14px;
+    font-size: 4vw;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 .footer {
@@ -47,6 +48,7 @@ html {
     color: #ffffff;
     text-align: center;
     font-size: 12px;
+    font-size: 4vw;
     padding: 15px;
 }
 /* For desktop: */
