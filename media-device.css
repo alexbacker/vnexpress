@@ -106,6 +106,7 @@ html {
        height: 180px;
        width: 180px;
       position: relative;
+         background-size: 100%;
 }
 
 }
@@ -142,6 +143,7 @@ html {
     height: 180px;
     width: 180px;
     position: relative;
+       background-size: 100%;
 }
 
 }
