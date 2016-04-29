@@ -107,6 +107,8 @@ html {
        width: 360px;
          background-size: 100%;
          display:block;
+         position: relative;
+
 }
 
 }
@@ -144,6 +146,8 @@ html {
     width: 360px;
        background-size: 100%;
        display:block;
+       position: relative;
+
 }
 
 }
