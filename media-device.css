@@ -103,8 +103,8 @@ html {
 #image {
         background-image:url(image/180x108.jpg);
 	background-repeat:no-repeat;
-       height: 180px;
-       width: 180px;
+       height: 360px;
+       width: 360px;
       position: relative;
          background-size: 100%;
 }
@@ -140,8 +140,8 @@ html {
 #image {
     background-image:url(image/180x108.jpg);
 	background-repeat:no-repeat;
-    height: 180px;
-    width: 180px;
+    height: 360px;
+    width: 360px;
     position: relative;
        background-size: 100%;
 }
