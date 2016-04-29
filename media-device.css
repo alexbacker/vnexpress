@@ -105,7 +105,6 @@ html {
 	background-repeat:no-repeat;
        height: 640px;
        width: 360px;
-         background-size: 100%;
          clear: both;
          display:block;
          position: relative;
@@ -145,7 +144,6 @@ html {
 	background-repeat:no-repeat;
     height: 640px;
     width: 360px;
-       background-size: 100%;
        clear: both;
        display:block;
        position: relative;
