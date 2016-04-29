@@ -101,12 +101,11 @@ html {
     padding: 15px;
 }
 #image {
-    background-image:url(image/180x108.jpg);
+        background-image:url(image/180x108.jpg);
 	background-repeat:no-repeat;
-	float: right;
-    height: 180px;
-    width: 180px;
-    position: relative;
+       height: 180px;
+       width: 180px;
+      position: relative;
 }
 
 }
