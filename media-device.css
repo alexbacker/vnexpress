@@ -104,10 +104,11 @@ html {
         background-image:url(image/180x108.jpg);
 	background-repeat:no-repeat;
        height: 640px;
-       width: 360px;
+       width: 640px;
          clear: both;
          display:block;
          position: relative;
+          background-size: 100%;
 
 }
 
@@ -143,10 +144,11 @@ html {
     background-image:url(image/180x108.jpg);
 	background-repeat:no-repeat;
     height: 640px;
-    width: 360px;
+    width: 640px;
        clear: both;
        display:block;
        position: relative;
+        background-size: 100%;
 
 }
 
