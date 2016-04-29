@@ -105,7 +105,11 @@ html {
 	background-repeat:no-repeat;
        height: 640px;
        width: 360px;
+<<<<<<< HEAD
          clear: both;
+=======
+         background-size: 100%;
+>>>>>>> parent of dc4c8f6... update v20
          display:block;
          position: relative;
 
@@ -144,7 +148,11 @@ html {
 	background-repeat:no-repeat;
     height: 640px;
     width: 360px;
+<<<<<<< HEAD
        clear: both;
+=======
+       background-size: 100%;
+>>>>>>> parent of dc4c8f6... update v20
        display:block;
        position: relative;
 
